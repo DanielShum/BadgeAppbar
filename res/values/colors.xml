@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="donnaRedNormal">#FF4444</color>
+    <color name="donnaRedActivated">#CC0000</color>
+    <color name="donnaBlueNormal">#33B5E5</color>
+    <color name="donnaBlueActivated">#0099CC</color>
+    <color name="donnaPurpleNormal">#AA66CC</color>
+    <color name="donnaPurpleActivated">#9933CC</color>
+    <color name="donnaGreenNormal">#99CC00</color>
+    <color name="donnaGreenActivated">#669900</color>
+    <color name="donnaOrangeNormal">#FFBB33</color>
+    <color name="donnaOrangeActivated">#FF8800</color>
+    
+</resources>
