@@ -110,7 +110,14 @@ public class MaterialAppBar extends LinearLayout{
 		setMeasuredDimension(this_width, this_height);
 	}
 	
-	public void changeDefaulTouchFeedback(int resourceId){
+	
+	/**
+	 * if you have change the touch feedback, you must do it so before adding any buttons.
+	 * Default touch feedback is holo dark theme, you can change to holo light them by doing
+	 * changeDefaulTouchFeedback(MaterialAppBar.TOUCH_FEEDBACK_HOLO_LIGHT)
+	 * @param resourceId
+	 */
+	public void changeDefaultTouchFeedback(int resourceId){
 		default_touch_feedback = resourceId;
 	}
 	
